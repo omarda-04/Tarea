@@ -1,4 +1,4 @@
 Nombre: Laura Alfonso
 Edad: 21
-Cedula:1000224230
+Documento:1000224230
 
